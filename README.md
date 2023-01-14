@@ -3,7 +3,7 @@
 <h3>Commands to execute the Project</h3>
 <hr>
 
-1. Preprocessing Technique execution takes place through this command which will be output 3 Images. <br><br>
+1. Since this Project was completely developed using Python 2.7. <br><br>
 Download Python Version 2.7 from Python Official Site.
 
 <br>
